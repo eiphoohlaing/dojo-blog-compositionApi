@@ -1,4 +1,5 @@
 <template>
+  <h1>Dojo Blog</h1>
   <router-view/>
 </template>
 
